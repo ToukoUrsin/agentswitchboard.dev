@@ -1,6 +1,248 @@
 [
   {
     "action": "updated",
+    "slug": "vertex-ai-agent-builder",
+    "name": "Gemini Enterprise Agent Platform",
+    "note": "agentUrl updated",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "updated",
+    "slug": "vertex-ai-agent-builder",
+    "name": "Gemini Enterprise Agent Platform",
+    "note": "name updated",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "updated",
+    "slug": "codewhale",
+    "name": "Codewhale",
+    "note": "providerName updated",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "updated",
+    "slug": "codewhale",
+    "name": "Codewhale",
+    "note": "agentUrl updated",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "updated",
+    "slug": "experiential",
+    "name": "Experiential",
+    "note": "providerUrl updated",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "updated",
+    "slug": "experiential",
+    "name": "Experiential",
+    "note": "agentUrl updated",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "updated",
+    "slug": "graft",
+    "name": "Trail-code",
+    "note": "agentUrl updated",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "updated",
+    "slug": "graft",
+    "name": "Trail-code",
+    "note": "name updated",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "oracle-mcp",
+    "name": "Oracle MCP Servers",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "honeybadger-mcp",
+    "name": "Honeybadger MCP",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "gitkraken-cli",
+    "name": "GitKraken CLI",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "twelvelabs-jockey",
+    "name": "Jockey by TwelveLabs",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "harness-by-autonomous",
+    "name": "Harness by Autonomous",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "nitrostack",
+    "name": "NitroStack",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "jevgrep",
+    "name": "jevgrep",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "perplexity-space",
+    "name": "Perplexity SPACE",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "openmuse",
+    "name": "OpenMuse",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "coucou",
+    "name": "Coucou",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "baidu-qianfan",
+    "name": "Baidu Qianfan",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "reka-api",
+    "name": "Reka API",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "ai21-studio",
+    "name": "AI21 Studio",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "fish-audio",
+    "name": "Fish Audio",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "minimax-code",
+    "name": "MiniMax Code",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "minimax-api",
+    "name": "MiniMax API Platform",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "ibm-bob",
+    "name": "IBM Bob",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "volcengine-ark",
+    "name": "Volcengine Ark",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "oci-generative-ai",
+    "name": "OCI Generative AI",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "nvidia-nim-api",
+    "name": "NVIDIA NIM API",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "openai-mcp-extensions",
+    "name": "OpenAI MCP Extensions",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "drawio-mcp",
+    "name": "draw.io MCP",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "craft-agents",
+    "name": "Craft Agents",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "kev",
+    "name": "Kev",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "nightingale",
+    "name": "Nightingale",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "next-ai-draw-io",
+    "name": "Next AI Draw.io",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "ibm-watsonx-ai",
+    "name": "IBM watsonx.ai",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "amazon-bedrock",
+    "name": "Amazon Bedrock",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "mistral-vibe",
+    "name": "Mistral Vibe",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "kiro",
+    "name": "Kiro",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "added",
+    "slug": "google-antigravity",
+    "name": "Google Antigravity",
+    "date": "2026-10-17"
+  },
+  {
+    "action": "updated",
     "slug": "doordash-cli",
     "name": "dd-cli",
     "note": "agentUrl updated",
